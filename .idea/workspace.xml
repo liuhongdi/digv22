@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f387a0ff-0887-4f67-b29a-808e0f21bba2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/soft/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kXK8fkdfsu0YBcHz3x6vfFljsg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build digv22" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="digv22" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/liuhongdi/digv22" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="digv22" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/liuhongdi/digv22" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build digv22" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="251" width="402" height="336" key="#Go_Modules" timestamp="1605841465413">
+      <screen x="0" y="0" width="1440" height="830" />
+    </state>
+    <state x="515" y="251" width="402" height="336" key="#Go_Modules/0.0.1440.830@0.0.1440.830" timestamp="1605841465413" />
+    <state x="183" y="68" width="1073" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605853421980">
+      <screen x="0" y="0" width="1440" height="830" />
+    </state>
+    <state x="183" y="68" width="1073" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.830@0.0.1440.830" timestamp="1605853421980" />
+    <state width="1386" height="38" key="GridCell.Tab.0.bottom" timestamp="1611051454792">
+      <screen x="0" y="0" width="1440" height="837" />
+    </state>
+    <state width="1386" height="162" key="GridCell.Tab.0.bottom/0.0.1440.830@0.0.1440.830" timestamp="1605939088796" />
+    <state width="1386" height="38" key="GridCell.Tab.0.bottom/0.0.1440.837@0.0.1440.837" timestamp="1611051454792" />
+    <state width="1386" height="38" key="GridCell.Tab.0.center" timestamp="1611051454791">
+      <screen x="0" y="0" width="1440" height="837" />
+    </state>
+    <state width="1386" height="162" key="GridCell.Tab.0.center/0.0.1440.830@0.0.1440.830" timestamp="1605939088794" />
+    <state width="1386" height="38" key="GridCell.Tab.0.center/0.0.1440.837@0.0.1440.837" timestamp="1611051454791" />
+    <state width="1386" height="38" key="GridCell.Tab.0.left" timestamp="1611051454791">
+      <screen x="0" y="0" width="1440" height="837" />
+    </state>
+    <state width="1386" height="162" key="GridCell.Tab.0.left/0.0.1440.830@0.0.1440.830" timestamp="1605939088792" />
+    <state width="1386" height="38" key="GridCell.Tab.0.left/0.0.1440.837@0.0.1440.837" timestamp="1611051454791" />
+    <state width="1386" height="38" key="GridCell.Tab.0.right" timestamp="1611051454791">
+      <screen x="0" y="0" width="1440" height="837" />
+    </state>
+    <state width="1386" height="162" key="GridCell.Tab.0.right/0.0.1440.830@0.0.1440.830" timestamp="1605939088795" />
+    <state width="1386" height="38" key="GridCell.Tab.0.right/0.0.1440.837@0.0.1440.837" timestamp="1611051454791" />
+    <state x="205" y="45" key="SettingsEditor" timestamp="1605841621978">
+      <screen x="0" y="0" width="1440" height="830" />
+    </state>
+    <state x="205" y="45" key="SettingsEditor/0.0.1440.830@0.0.1440.830" timestamp="1605841621978" />
+  </component>
+</project>
